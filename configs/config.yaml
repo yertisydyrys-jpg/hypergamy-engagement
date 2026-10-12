@@ -1,0 +1,19 @@
+experiment:
+  name: "hypergamy_cross_platform_engagement_benchmark"
+  version: "1.0.0"
+  alpha: 0.05
+  random_seed: 42
+
+paths:
+  sample_data: "data/sample/sample.csv"
+  log_output: "results/log.txt"
+
+data_processing:
+  epsilon: 0.00001
+  platforms:
+    - "TikTok"
+    - "Instagram Reels"
+    - "YouTube Long"
+
+metrics:
+  primary: "log_er_view"

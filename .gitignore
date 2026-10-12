@@ -1,0 +1,26 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Data & Logs (Exclude raw datasets and dynamic logs)
+data/raw/
+data/processed/
+*.log
+
+# Environment & API Keys
+.env
+.env.local
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
