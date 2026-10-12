@@ -13,6 +13,37 @@ This research project presents an automated empirical pipeline designed to evalu
 
 ---
 
+## System Requirements
+- Docker Engine (version 20.10 or higher) OR Python 3.11.9
+- RAM: Minimum 2 GB
+- Disk Space: 500 MB
+
+## Quickstart Guide
+
+### Option A: Using Docker (Recommended for Reproducibility)
+
+```bash
+# 1. Build the Docker image
+docker build -t hypergamy-benchmark .
+
+# 2. Run the benchmark pipeline
+docker run --rm hypergamy-benchmark
+```
+
+### Option B: Local Python Environment
+
+```bash
+# 1. Install exact dependencies
+pip install -r requirements.txt
+
+# 2. Execute benchmark pipeline
+python src/main.py
+```
+
+Expected output will be printed to stdout and saved to `results/log.txt`.
+
+---
+
 ## Research Question (RQ)
 * **RQ1 (Qualitative/NLP):** What dominant narrative triggers and sentiment patterns characterize viral hypergamy content?
 * **RQ2 (Quantitative Core):** How do recommendation feed architectures (short-form algorithmic feeds vs. long-form content) influence user engagement rate ($\log(\text{ER})$) for hypergamy discourse?
@@ -38,6 +69,7 @@ hypergamy-engagement/
 ├── README.md              # Project overview and quickstart
 ├── LICENSE                # MIT License
 ├── .gitignore             # Git exclusion rules
+├── .dockerignore          # Docker build exclusions
 ├── Dockerfile             # Reproducible Docker container config
 ├── requirements.txt       # Strictly pinned dependencies
 ├── configs/
@@ -51,3 +83,22 @@ hypergamy-engagement/
 │   └── METHODOLOGY_PASSPORT.md # Methodology card
 └── results/
     └── log.txt            # Generated output log
+```
+
+## Citation & Academic References
+
+```bibtex
+@article{ging2019alphas,
+  title={Alphas, betas, and incels: Theorizing the male red pill online},
+  author={Ging, Debbie},
+  journal={Feminist Media Studies},
+  volume={19},
+  number={5},
+  pages={638--657},
+  year={2019}
+}
+```
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for details.

@@ -1,0 +1,15 @@
+=== BENCHMARK EXPERIMENT LOG ===
+Experiment Name: hypergamy_cross_platform_engagement_benchmark
+Sample Records Processed: 10
+Alpha Significance Threshold: 0.05
+----------------------------------------
+PLATFORM MEAN LOG(ER_VIEW):
+  - Instagram Reels: -2.5446
+  - TikTok: -2.3853
+  - YouTube Long: -3.4657
+----------------------------------------
+F-Statistic: 140.9877
+p-Value: 0.0000
+Eta-Squared (Effect Size): 0.9758
+H0 Rejected (p < alpha): True
+================================
