@@ -6,7 +6,8 @@
 
 ## Title & Project Overview
 * **Repository Name:** `hypergamy-engagement`
-* **Author:** Yertis Ydyrys
+* **Author:** Yertis Ydyrys Tazhimuratov Shokhriyor
+* 
 * **GitHub Link:** [https://github.com/yertisydyrys-jpg/hypergamy-engagement.git](https://github.com/yertisydyrys-jpg/hypergamy-engagement.git)
 
 This research project presents an automated empirical pipeline designed to evaluate algorithmic amplification and user engagement dynamics ($\text{ER}$) across major social media platforms (**TikTok**, **Instagram Reels**, and **YouTube Long-form**). Focusing on gender and relationship discourses in 2026, the pipeline measures statistically significant differences in user engagement using standardized log-transformed metrics.
