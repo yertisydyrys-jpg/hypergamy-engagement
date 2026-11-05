@@ -1,0 +1,972 @@
+{"run_id": 1, "phase": "warmup", "method": "baseline", "platform": "TikTok", "latency_ms": 433.0, "throughput": 13.66, "error": false}
+{"run_id": 2, "phase": "warmup", "method": "baseline", "platform": "TikTok", "latency_ms": 481.84, "throughput": 9.07, "error": false}
+{"run_id": 3, "phase": "warmup", "method": "baseline", "platform": "TikTok", "latency_ms": 419.42, "throughput": 17.31, "error": false}
+{"run_id": 4, "phase": "warmup", "method": "baseline", "platform": "TikTok", "latency_ms": 344.09, "throughput": 23.33, "error": false}
+{"run_id": 5, "phase": "warmup", "method": "baseline", "platform": "TikTok", "latency_ms": 414.67, "throughput": 24.58, "error": false}
+{"run_id": 6, "phase": "warmup", "method": "baseline", "platform": "TikTok", "latency_ms": 343.61, "throughput": 20.76, "error": false}
+{"run_id": 7, "phase": "warmup", "method": "baseline", "platform": "TikTok", "latency_ms": 477.06, "throughput": 18.65, "error": false}
+{"run_id": 8, "phase": "warmup", "method": "baseline", "platform": "TikTok", "latency_ms": 357.3, "throughput": 25.06, "error": false}
+{"run_id": 9, "phase": "warmup", "method": "baseline", "platform": "TikTok", "latency_ms": 376.7, "throughput": 17.13, "error": false}
+{"run_id": 10, "phase": "warmup", "method": "baseline", "platform": "TikTok", "latency_ms": 437.67, "throughput": 20.98, "error": false}
+{"run_id": 11, "phase": "warmup", "method": "baseline", "platform": "TikTok", "latency_ms": 574.08, "throughput": 16.85, "error": false}
+{"run_id": 12, "phase": "warmup", "method": "baseline", "platform": "TikTok", "latency_ms": 347.1, "throughput": 22.0, "error": false}
+{"run_id": 13, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 125.37, "throughput": 36.71, "error": false}
+{"run_id": 14, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 142.99, "throughput": 46.68, "error": false}
+{"run_id": 15, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 101.02, "throughput": 45.42, "error": false}
+{"run_id": 16, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 133.35, "throughput": 42.74, "error": false}
+{"run_id": 17, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 148.08, "throughput": 43.41, "error": false}
+{"run_id": 18, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 129.56, "throughput": 43.82, "error": false}
+{"run_id": 19, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 94.43, "throughput": 39.99, "error": false}
+{"run_id": 20, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 113.28, "throughput": 40.27, "error": false}
+{"run_id": 21, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 108.05, "throughput": 48.1, "error": false}
+{"run_id": 22, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 120.28, "throughput": 43.03, "error": false}
+{"run_id": 23, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 144.39, "throughput": 47.0, "error": false}
+{"run_id": 24, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 117.35, "throughput": 47.41, "error": false}
+{"run_id": 25, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 98.61, "throughput": 34.86, "error": false}
+{"run_id": 26, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 139.45, "throughput": 42.9, "error": false}
+{"run_id": 27, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 118.16, "throughput": 43.0, "error": false}
+{"run_id": 28, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 120.87, "throughput": 44.88, "error": false}
+{"run_id": 29, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 119.64, "throughput": 39.6, "error": false}
+{"run_id": 30, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 139.22, "throughput": 39.04, "error": false}
+{"run_id": 31, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 139.08, "throughput": 44.81, "error": false}
+{"run_id": 32, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 125.73, "throughput": 39.33, "error": false}
+{"run_id": 33, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 89.12, "throughput": 32.88, "error": false}
+{"run_id": 34, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 105.02, "throughput": 44.52, "error": false}
+{"run_id": 35, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 119.29, "throughput": 50.19, "error": false}
+{"run_id": 36, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 144.99, "throughput": 36.12, "error": false}
+{"run_id": 37, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 106.11, "throughput": 39.86, "error": false}
+{"run_id": 38, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 88.2, "throughput": 44.74, "error": false}
+{"run_id": 39, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 114.31, "throughput": 32.89, "error": false}
+{"run_id": 40, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 115.8, "throughput": 43.47, "error": false}
+{"run_id": 41, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 164.9, "throughput": 40.49, "error": false}
+{"run_id": 42, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 132.13, "throughput": 43.39, "error": false}
+{"run_id": 43, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 147.24, "throughput": 44.25, "error": false}
+{"run_id": 44, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 100.61, "throughput": 37.97, "error": false}
+{"run_id": 45, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 119.02, "throughput": 33.33, "error": false}
+{"run_id": 46, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 122.88, "throughput": 32.73, "error": false}
+{"run_id": 47, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 135.22, "throughput": 47.28, "error": false}
+{"run_id": 48, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 195.14, "throughput": 44.61, "error": false}
+{"run_id": 49, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 78.88, "throughput": 43.69, "error": false}
+{"run_id": 50, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 118.43, "throughput": 38.14, "error": false}
+{"run_id": 51, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 152.56, "throughput": 42.99, "error": false}
+{"run_id": 52, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 104.14, "throughput": 31.45, "error": false}
+{"run_id": 53, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 126.76, "throughput": 53.14, "error": false}
+{"run_id": 54, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 150.64, "throughput": 38.85, "error": false}
+{"run_id": 55, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 105.76, "throughput": 37.43, "error": false}
+{"run_id": 56, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 109.08, "throughput": 47.28, "error": false}
+{"run_id": 57, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 149.46, "throughput": 44.43, "error": false}
+{"run_id": 58, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 127.06, "throughput": 37.87, "error": false}
+{"run_id": 59, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 117.52, "throughput": 34.28, "error": false}
+{"run_id": 60, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 131.98, "throughput": 51.95, "error": false}
+{"run_id": 61, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 125.27, "throughput": 43.8, "error": false}
+{"run_id": 62, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 133.05, "throughput": 39.41, "error": false}
+{"run_id": 63, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 137.88, "throughput": 51.68, "error": false}
+{"run_id": 64, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 99.79, "throughput": 33.38, "error": false}
+{"run_id": 65, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 167.71, "throughput": 40.87, "error": false}
+{"run_id": 66, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 161.67, "throughput": 35.03, "error": false}
+{"run_id": 67, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 142.82, "throughput": 39.51, "error": false}
+{"run_id": 68, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 124.23, "throughput": 44.13, "error": false}
+{"run_id": 69, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 130.09, "throughput": 46.06, "error": false}
+{"run_id": 70, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 126.88, "throughput": 36.69, "error": false}
+{"run_id": 71, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 107.77, "throughput": 39.9, "error": false}
+{"run_id": 72, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 97.44, "throughput": 42.19, "error": false}
+{"run_id": 73, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 139.26, "throughput": 38.95, "error": false}
+{"run_id": 74, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 151.1, "throughput": 45.39, "error": false}
+{"run_id": 75, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 124.44, "throughput": 37.62, "error": false}
+{"run_id": 76, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 133.59, "throughput": 43.11, "error": false}
+{"run_id": 77, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 130.08, "throughput": 43.44, "error": false}
+{"run_id": 78, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 171.24, "throughput": 36.62, "error": false}
+{"run_id": 79, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 94.28, "throughput": 38.28, "error": false}
+{"run_id": 80, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 155.78, "throughput": 37.41, "error": false}
+{"run_id": 81, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 78.53, "throughput": 40.98, "error": false}
+{"run_id": 82, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 115.8, "throughput": 36.48, "error": false}
+{"run_id": 83, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 87.5, "throughput": 32.76, "error": false}
+{"run_id": 84, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 98.34, "throughput": 35.09, "error": false}
+{"run_id": 85, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 194.93, "throughput": 34.62, "error": false}
+{"run_id": 86, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 135.87, "throughput": 52.89, "error": false}
+{"run_id": 87, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 122.35, "throughput": 46.9, "error": false}
+{"run_id": 88, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 119.33, "throughput": 41.16, "error": false}
+{"run_id": 89, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 122.51, "throughput": 40.32, "error": false}
+{"run_id": 90, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 115.21, "throughput": 44.97, "error": false}
+{"run_id": 91, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 131.58, "throughput": 44.22, "error": false}
+{"run_id": 92, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 128.0, "throughput": 37.45, "error": false}
+{"run_id": 93, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 125.76, "throughput": 55.19, "error": false}
+{"run_id": 94, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 136.89, "throughput": 37.19, "error": false}
+{"run_id": 95, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 134.02, "throughput": 34.99, "error": false}
+{"run_id": 96, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 134.05, "throughput": 45.02, "error": false}
+{"run_id": 97, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 149.37, "throughput": 44.86, "error": false}
+{"run_id": 98, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 117.14, "throughput": 43.66, "error": false}
+{"run_id": 99, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 121.27, "throughput": 41.35, "error": false}
+{"run_id": 100, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 131.52, "throughput": 51.27, "error": false}
+{"run_id": 101, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 122.54, "throughput": 43.11, "error": false}
+{"run_id": 102, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 119.43, "throughput": 30.93, "error": false}
+{"run_id": 103, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 167.8, "throughput": 32.34, "error": false}
+{"run_id": 104, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 120.43, "throughput": 41.61, "error": false}
+{"run_id": 105, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 120.29, "throughput": 50.19, "error": false}
+{"run_id": 106, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 167.91, "throughput": 49.42, "error": false}
+{"run_id": 107, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 168.18, "throughput": 44.77, "error": false}
+{"run_id": 108, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 121.17, "throughput": 42.42, "error": false}
+{"run_id": 109, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 150.8, "throughput": 34.58, "error": false}
+{"run_id": 110, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 123.61, "throughput": 49.38, "error": false}
+{"run_id": 111, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 169.95, "throughput": 46.6, "error": false}
+{"run_id": 112, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 126.46, "throughput": 34.62, "error": false}
+{"run_id": 113, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 162.82, "throughput": 46.02, "error": false}
+{"run_id": 114, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 104.64, "throughput": 42.21, "error": false}
+{"run_id": 115, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 112.54, "throughput": 43.97, "error": false}
+{"run_id": 116, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 142.03, "throughput": 27.56, "error": false}
+{"run_id": 117, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 129.66, "throughput": 44.61, "error": false}
+{"run_id": 118, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 80.46, "throughput": 38.28, "error": false}
+{"run_id": 119, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 91.56, "throughput": 51.3, "error": false}
+{"run_id": 120, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 147.51, "throughput": 38.4, "error": false}
+{"run_id": 121, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 152.62, "throughput": 43.47, "error": false}
+{"run_id": 122, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 134.23, "throughput": 36.56, "error": false}
+{"run_id": 123, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 124.49, "throughput": 44.42, "error": false}
+{"run_id": 124, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 103.61, "throughput": 41.21, "error": false}
+{"run_id": 125, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 110.87, "throughput": 36.82, "error": false}
+{"run_id": 126, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 147.45, "throughput": 42.07, "error": false}
+{"run_id": 127, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 147.74, "throughput": 47.3, "error": false}
+{"run_id": 128, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 181.63, "throughput": 40.71, "error": false}
+{"run_id": 129, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 164.96, "throughput": 39.12, "error": false}
+{"run_id": 130, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 158.17, "throughput": 31.91, "error": false}
+{"run_id": 131, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 91.11, "throughput": 37.0, "error": false}
+{"run_id": 132, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 140.08, "throughput": 43.74, "error": false}
+{"run_id": 133, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 74.78, "throughput": 42.34, "error": false}
+{"run_id": 134, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 138.58, "throughput": 46.42, "error": false}
+{"run_id": 135, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 112.74, "throughput": 42.87, "error": false}
+{"run_id": 136, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 133.28, "throughput": 45.34, "error": false}
+{"run_id": 137, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 123.86, "throughput": 43.24, "error": false}
+{"run_id": 138, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 118.93, "throughput": 45.28, "error": false}
+{"run_id": 139, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 125.29, "throughput": 47.23, "error": false}
+{"run_id": 140, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 98.13, "throughput": 32.66, "error": false}
+{"run_id": 141, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 112.37, "throughput": 46.72, "error": false}
+{"run_id": 142, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 132.56, "throughput": 48.86, "error": false}
+{"run_id": 143, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 126.41, "throughput": 50.53, "error": false}
+{"run_id": 144, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 108.71, "throughput": 38.26, "error": false}
+{"run_id": 145, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 107.54, "throughput": 39.74, "error": false}
+{"run_id": 146, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 167.65, "throughput": 33.29, "error": false}
+{"run_id": 147, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 104.03, "throughput": 44.99, "error": false}
+{"run_id": 148, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 85.82, "throughput": 47.85, "error": false}
+{"run_id": 149, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 115.7, "throughput": 35.26, "error": false}
+{"run_id": 150, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 137.86, "throughput": 40.81, "error": false}
+{"run_id": 151, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 136.34, "throughput": 50.32, "error": false}
+{"run_id": 152, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 93.97, "throughput": 48.72, "error": false}
+{"run_id": 153, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 153.68, "throughput": 44.42, "error": false}
+{"run_id": 154, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 136.04, "throughput": 54.29, "error": false}
+{"run_id": 155, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 129.6, "throughput": 43.01, "error": false}
+{"run_id": 156, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 108.52, "throughput": 44.1, "error": false}
+{"run_id": 157, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 135.23, "throughput": 36.75, "error": false}
+{"run_id": 158, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 80.24, "throughput": 34.96, "error": false}
+{"run_id": 159, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 121.24, "throughput": 54.2, "error": false}
+{"run_id": 160, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 105.83, "throughput": 44.19, "error": false}
+{"run_id": 161, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 121.45, "throughput": 43.17, "error": false}
+{"run_id": 162, "phase": "eval", "method": "baseline", "platform": "TikTok", "latency_ms": 120.18, "throughput": 48.7, "error": false}
+{"run_id": 163, "phase": "warmup", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 467.76, "throughput": 28.95, "error": false}
+{"run_id": 164, "phase": "warmup", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 592.75, "throughput": 17.52, "error": false}
+{"run_id": 165, "phase": "warmup", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 462.23, "throughput": 16.32, "error": false}
+{"run_id": 166, "phase": "warmup", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 504.89, "throughput": 13.22, "error": false}
+{"run_id": 167, "phase": "warmup", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 520.85, "throughput": 20.14, "error": false}
+{"run_id": 168, "phase": "warmup", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 499.31, "throughput": 15.79, "error": false}
+{"run_id": 169, "phase": "warmup", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 440.16, "throughput": 21.37, "error": false}
+{"run_id": 170, "phase": "warmup", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 437.8, "throughput": 8.02, "error": false}
+{"run_id": 171, "phase": "warmup", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 586.67, "throughput": 21.18, "error": false}
+{"run_id": 172, "phase": "warmup", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 335.58, "throughput": 3.58, "error": false}
+{"run_id": 173, "phase": "warmup", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 679.23, "throughput": 19.08, "error": false}
+{"run_id": 174, "phase": "warmup", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 507.94, "throughput": 9.98, "error": false}
+{"run_id": 175, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 148.61, "throughput": 37.51, "error": false}
+{"run_id": 176, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 155.06, "throughput": 41.81, "error": false}
+{"run_id": 177, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 169.59, "throughput": 47.28, "error": false}
+{"run_id": 178, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 122.67, "throughput": 45.61, "error": false}
+{"run_id": 179, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 182.89, "throughput": 35.48, "error": false}
+{"run_id": 180, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 149.46, "throughput": 39.47, "error": false}
+{"run_id": 181, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 136.49, "throughput": 32.64, "error": false}
+{"run_id": 182, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 157.89, "throughput": 29.08, "error": false}
+{"run_id": 183, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 131.84, "throughput": 44.54, "error": false}
+{"run_id": 184, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 125.33, "throughput": 28.39, "error": false}
+{"run_id": 185, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 152.51, "throughput": 36.98, "error": false}
+{"run_id": 186, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 141.82, "throughput": 39.16, "error": false}
+{"run_id": 187, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 164.58, "throughput": 41.78, "error": false}
+{"run_id": 188, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 160.63, "throughput": 39.69, "error": false}
+{"run_id": 189, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 143.71, "throughput": 36.25, "error": false}
+{"run_id": 190, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 118.87, "throughput": 30.91, "error": false}
+{"run_id": 191, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 132.5, "throughput": 32.93, "error": false}
+{"run_id": 192, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 154.79, "throughput": 38.29, "error": false}
+{"run_id": 193, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 169.66, "throughput": 42.21, "error": false}
+{"run_id": 194, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 128.84, "throughput": 41.13, "error": false}
+{"run_id": 195, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 107.94, "throughput": 37.61, "error": false}
+{"run_id": 196, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 122.36, "throughput": 39.08, "error": false}
+{"run_id": 197, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 181.11, "throughput": 45.11, "error": false}
+{"run_id": 198, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 155.55, "throughput": 24.26, "error": false}
+{"run_id": 199, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 138.28, "throughput": 31.89, "error": false}
+{"run_id": 200, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 198.49, "throughput": 31.29, "error": false}
+{"run_id": 201, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 152.19, "throughput": 47.18, "error": false}
+{"run_id": 202, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 152.54, "throughput": 48.38, "error": false}
+{"run_id": 203, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 134.86, "throughput": 28.58, "error": false}
+{"run_id": 204, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 134.87, "throughput": 35.03, "error": false}
+{"run_id": 205, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 152.35, "throughput": 27.88, "error": false}
+{"run_id": 206, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 130.82, "throughput": 45.26, "error": false}
+{"run_id": 207, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 129.27, "throughput": 41.08, "error": false}
+{"run_id": 208, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 157.78, "throughput": 28.39, "error": false}
+{"run_id": 209, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 118.82, "throughput": 39.34, "error": false}
+{"run_id": 210, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 157.73, "throughput": 33.4, "error": false}
+{"run_id": 211, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 164.76, "throughput": 39.38, "error": false}
+{"run_id": 212, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 184.14, "throughput": 35.49, "error": true}
+{"run_id": 213, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 153.07, "throughput": 34.47, "error": false}
+{"run_id": 214, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 131.98, "throughput": 35.65, "error": false}
+{"run_id": 215, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 118.65, "throughput": 24.25, "error": false}
+{"run_id": 216, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 213.0, "throughput": 35.69, "error": false}
+{"run_id": 217, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 137.84, "throughput": 36.37, "error": false}
+{"run_id": 218, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 116.74, "throughput": 41.3, "error": false}
+{"run_id": 219, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 106.73, "throughput": 41.99, "error": false}
+{"run_id": 220, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 150.52, "throughput": 36.08, "error": false}
+{"run_id": 221, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 162.17, "throughput": 28.14, "error": false}
+{"run_id": 222, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 135.74, "throughput": 48.53, "error": false}
+{"run_id": 223, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 189.83, "throughput": 31.71, "error": false}
+{"run_id": 224, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 154.39, "throughput": 33.05, "error": false}
+{"run_id": 225, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 177.86, "throughput": 36.15, "error": false}
+{"run_id": 226, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 145.54, "throughput": 32.86, "error": false}
+{"run_id": 227, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 143.86, "throughput": 28.28, "error": false}
+{"run_id": 228, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 158.67, "throughput": 35.02, "error": false}
+{"run_id": 229, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 166.63, "throughput": 39.55, "error": false}
+{"run_id": 230, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 111.39, "throughput": 42.76, "error": false}
+{"run_id": 231, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 208.61, "throughput": 40.4, "error": false}
+{"run_id": 232, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 141.61, "throughput": 42.66, "error": false}
+{"run_id": 233, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 178.9, "throughput": 35.03, "error": false}
+{"run_id": 234, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 132.84, "throughput": 35.52, "error": false}
+{"run_id": 235, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 166.78, "throughput": 46.54, "error": false}
+{"run_id": 236, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 134.84, "throughput": 39.79, "error": false}
+{"run_id": 237, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 171.02, "throughput": 25.16, "error": false}
+{"run_id": 238, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 125.44, "throughput": 24.77, "error": false}
+{"run_id": 239, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 121.95, "throughput": 36.85, "error": false}
+{"run_id": 240, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 139.56, "throughput": 32.12, "error": false}
+{"run_id": 241, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 173.57, "throughput": 32.44, "error": false}
+{"run_id": 242, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 160.68, "throughput": 36.74, "error": false}
+{"run_id": 243, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 145.64, "throughput": 42.0, "error": false}
+{"run_id": 244, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 145.68, "throughput": 36.8, "error": false}
+{"run_id": 245, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 104.91, "throughput": 41.91, "error": false}
+{"run_id": 246, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 119.13, "throughput": 37.45, "error": false}
+{"run_id": 247, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 86.06, "throughput": 29.47, "error": false}
+{"run_id": 248, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 184.4, "throughput": 39.61, "error": false}
+{"run_id": 249, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 116.04, "throughput": 31.62, "error": false}
+{"run_id": 250, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 147.53, "throughput": 41.13, "error": false}
+{"run_id": 251, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 153.31, "throughput": 38.9, "error": false}
+{"run_id": 252, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 167.21, "throughput": 28.77, "error": false}
+{"run_id": 253, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 172.33, "throughput": 44.77, "error": false}
+{"run_id": 254, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 97.12, "throughput": 38.56, "error": false}
+{"run_id": 255, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 193.24, "throughput": 40.94, "error": false}
+{"run_id": 256, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 122.53, "throughput": 38.07, "error": false}
+{"run_id": 257, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 119.32, "throughput": 49.68, "error": false}
+{"run_id": 258, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 175.86, "throughput": 32.75, "error": false}
+{"run_id": 259, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 162.81, "throughput": 40.52, "error": false}
+{"run_id": 260, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 162.7, "throughput": 42.22, "error": false}
+{"run_id": 261, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 154.96, "throughput": 27.83, "error": false}
+{"run_id": 262, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 131.38, "throughput": 30.7, "error": false}
+{"run_id": 263, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 191.44, "throughput": 45.75, "error": false}
+{"run_id": 264, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 181.49, "throughput": 38.07, "error": false}
+{"run_id": 265, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 117.26, "throughput": 40.26, "error": false}
+{"run_id": 266, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 111.77, "throughput": 37.71, "error": false}
+{"run_id": 267, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 193.24, "throughput": 43.1, "error": false}
+{"run_id": 268, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 152.54, "throughput": 38.25, "error": false}
+{"run_id": 269, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 117.55, "throughput": 37.14, "error": false}
+{"run_id": 270, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 113.14, "throughput": 40.91, "error": false}
+{"run_id": 271, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 99.05, "throughput": 37.3, "error": false}
+{"run_id": 272, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 173.84, "throughput": 43.85, "error": false}
+{"run_id": 273, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 123.79, "throughput": 31.82, "error": false}
+{"run_id": 274, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 155.97, "throughput": 45.34, "error": false}
+{"run_id": 275, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 142.53, "throughput": 30.91, "error": false}
+{"run_id": 276, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 151.71, "throughput": 36.85, "error": false}
+{"run_id": 277, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 152.65, "throughput": 35.13, "error": false}
+{"run_id": 278, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 154.18, "throughput": 35.71, "error": false}
+{"run_id": 279, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 153.18, "throughput": 31.51, "error": false}
+{"run_id": 280, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 183.78, "throughput": 31.38, "error": false}
+{"run_id": 281, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 97.07, "throughput": 38.17, "error": false}
+{"run_id": 282, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 142.91, "throughput": 44.92, "error": false}
+{"run_id": 283, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 156.41, "throughput": 46.9, "error": false}
+{"run_id": 284, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 136.02, "throughput": 33.71, "error": false}
+{"run_id": 285, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 137.43, "throughput": 46.14, "error": false}
+{"run_id": 286, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 137.17, "throughput": 48.86, "error": false}
+{"run_id": 287, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 192.09, "throughput": 37.47, "error": false}
+{"run_id": 288, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 155.6, "throughput": 56.12, "error": false}
+{"run_id": 289, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 127.41, "throughput": 43.52, "error": false}
+{"run_id": 290, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 133.13, "throughput": 43.18, "error": false}
+{"run_id": 291, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 153.32, "throughput": 38.08, "error": false}
+{"run_id": 292, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 157.17, "throughput": 26.96, "error": false}
+{"run_id": 293, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 120.19, "throughput": 29.78, "error": false}
+{"run_id": 294, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 148.21, "throughput": 34.05, "error": false}
+{"run_id": 295, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 110.73, "throughput": 35.68, "error": false}
+{"run_id": 296, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 144.78, "throughput": 39.59, "error": false}
+{"run_id": 297, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 165.03, "throughput": 38.36, "error": false}
+{"run_id": 298, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 94.53, "throughput": 37.93, "error": false}
+{"run_id": 299, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 143.28, "throughput": 37.84, "error": false}
+{"run_id": 300, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 170.9, "throughput": 31.67, "error": false}
+{"run_id": 301, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 117.27, "throughput": 39.65, "error": false}
+{"run_id": 302, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 134.66, "throughput": 23.74, "error": false}
+{"run_id": 303, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 124.11, "throughput": 34.82, "error": false}
+{"run_id": 304, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 147.01, "throughput": 36.22, "error": false}
+{"run_id": 305, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 128.23, "throughput": 33.08, "error": false}
+{"run_id": 306, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 105.64, "throughput": 40.22, "error": false}
+{"run_id": 307, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 142.13, "throughput": 47.05, "error": false}
+{"run_id": 308, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 200.14, "throughput": 36.72, "error": false}
+{"run_id": 309, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 147.84, "throughput": 31.87, "error": false}
+{"run_id": 310, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 156.43, "throughput": 41.17, "error": false}
+{"run_id": 311, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 171.95, "throughput": 44.6, "error": false}
+{"run_id": 312, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 120.69, "throughput": 41.02, "error": false}
+{"run_id": 313, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 96.57, "throughput": 36.19, "error": false}
+{"run_id": 314, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 149.13, "throughput": 34.74, "error": false}
+{"run_id": 315, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 195.46, "throughput": 37.03, "error": false}
+{"run_id": 316, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 139.9, "throughput": 38.43, "error": false}
+{"run_id": 317, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 157.78, "throughput": 44.64, "error": false}
+{"run_id": 318, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 154.14, "throughput": 41.36, "error": false}
+{"run_id": 319, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 143.69, "throughput": 43.36, "error": false}
+{"run_id": 320, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 151.56, "throughput": 43.05, "error": false}
+{"run_id": 321, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 177.54, "throughput": 39.65, "error": false}
+{"run_id": 322, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 154.83, "throughput": 21.3, "error": false}
+{"run_id": 323, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 50.12, "throughput": 28.18, "error": false}
+{"run_id": 324, "phase": "eval", "method": "baseline", "platform": "Instagram Reels", "latency_ms": 158.55, "throughput": 31.37, "error": false}
+{"run_id": 325, "phase": "warmup", "method": "baseline", "platform": "YouTube Long", "latency_ms": 768.26, "throughput": 11.76, "error": false}
+{"run_id": 326, "phase": "warmup", "method": "baseline", "platform": "YouTube Long", "latency_ms": 610.98, "throughput": 14.97, "error": false}
+{"run_id": 327, "phase": "warmup", "method": "baseline", "platform": "YouTube Long", "latency_ms": 626.22, "throughput": 9.89, "error": false}
+{"run_id": 328, "phase": "warmup", "method": "baseline", "platform": "YouTube Long", "latency_ms": 607.12, "throughput": 8.59, "error": false}
+{"run_id": 329, "phase": "warmup", "method": "baseline", "platform": "YouTube Long", "latency_ms": 526.14, "throughput": 16.83, "error": false}
+{"run_id": 330, "phase": "warmup", "method": "baseline", "platform": "YouTube Long", "latency_ms": 578.79, "throughput": 13.12, "error": false}
+{"run_id": 331, "phase": "warmup", "method": "baseline", "platform": "YouTube Long", "latency_ms": 681.89, "throughput": 9.9, "error": false}
+{"run_id": 332, "phase": "warmup", "method": "baseline", "platform": "YouTube Long", "latency_ms": 737.8, "throughput": 12.02, "error": false}
+{"run_id": 333, "phase": "warmup", "method": "baseline", "platform": "YouTube Long", "latency_ms": 662.06, "throughput": 15.17, "error": false}
+{"run_id": 334, "phase": "warmup", "method": "baseline", "platform": "YouTube Long", "latency_ms": 637.5, "throughput": 16.15, "error": false}
+{"run_id": 335, "phase": "warmup", "method": "baseline", "platform": "YouTube Long", "latency_ms": 683.63, "throughput": 8.44, "error": false}
+{"run_id": 336, "phase": "warmup", "method": "baseline", "platform": "YouTube Long", "latency_ms": 576.52, "throughput": 11.76, "error": false}
+{"run_id": 337, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 241.86, "throughput": 38.07, "error": false}
+{"run_id": 338, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 187.23, "throughput": 31.59, "error": false}
+{"run_id": 339, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 195.17, "throughput": 30.59, "error": false}
+{"run_id": 340, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 188.96, "throughput": 26.72, "error": false}
+{"run_id": 341, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 212.79, "throughput": 30.01, "error": false}
+{"run_id": 342, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 214.04, "throughput": 28.31, "error": false}
+{"run_id": 343, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 204.02, "throughput": 24.44, "error": false}
+{"run_id": 344, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 173.78, "throughput": 22.55, "error": false}
+{"run_id": 345, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 155.9, "throughput": 30.23, "error": false}
+{"run_id": 346, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 179.42, "throughput": 32.79, "error": false}
+{"run_id": 347, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 201.87, "throughput": 31.84, "error": false}
+{"run_id": 348, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 118.53, "throughput": 28.36, "error": false}
+{"run_id": 349, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 192.24, "throughput": 29.98, "error": false}
+{"run_id": 350, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 231.83, "throughput": 30.91, "error": false}
+{"run_id": 351, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 207.68, "throughput": 27.62, "error": false}
+{"run_id": 352, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 224.9, "throughput": 27.49, "error": false}
+{"run_id": 353, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 214.29, "throughput": 25.7, "error": false}
+{"run_id": 354, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 215.02, "throughput": 30.46, "error": false}
+{"run_id": 355, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 161.46, "throughput": 27.58, "error": false}
+{"run_id": 356, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 158.15, "throughput": 31.97, "error": false}
+{"run_id": 357, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 183.98, "throughput": 30.49, "error": false}
+{"run_id": 358, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 143.65, "throughput": 36.62, "error": false}
+{"run_id": 359, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 205.14, "throughput": 30.53, "error": false}
+{"run_id": 360, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 185.72, "throughput": 36.54, "error": false}
+{"run_id": 361, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 229.93, "throughput": 27.1, "error": true}
+{"run_id": 362, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 154.15, "throughput": 32.05, "error": false}
+{"run_id": 363, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 188.34, "throughput": 29.11, "error": false}
+{"run_id": 364, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 183.12, "throughput": 22.83, "error": false}
+{"run_id": 365, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 198.8, "throughput": 35.94, "error": false}
+{"run_id": 366, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 170.83, "throughput": 36.46, "error": false}
+{"run_id": 367, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 185.8, "throughput": 31.95, "error": false}
+{"run_id": 368, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 194.8, "throughput": 28.16, "error": false}
+{"run_id": 369, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 137.93, "throughput": 32.94, "error": false}
+{"run_id": 370, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 170.51, "throughput": 30.04, "error": false}
+{"run_id": 371, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 197.2, "throughput": 27.05, "error": false}
+{"run_id": 372, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 188.69, "throughput": 37.11, "error": false}
+{"run_id": 373, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 224.47, "throughput": 35.59, "error": false}
+{"run_id": 374, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 212.11, "throughput": 32.69, "error": false}
+{"run_id": 375, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 153.27, "throughput": 33.15, "error": false}
+{"run_id": 376, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 163.68, "throughput": 35.87, "error": false}
+{"run_id": 377, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 242.14, "throughput": 28.78, "error": false}
+{"run_id": 378, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 182.73, "throughput": 30.46, "error": false}
+{"run_id": 379, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 229.98, "throughput": 28.37, "error": false}
+{"run_id": 380, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 157.01, "throughput": 32.03, "error": true}
+{"run_id": 381, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 165.22, "throughput": 28.94, "error": false}
+{"run_id": 382, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 181.71, "throughput": 37.97, "error": false}
+{"run_id": 383, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 182.61, "throughput": 20.56, "error": false}
+{"run_id": 384, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 181.96, "throughput": 26.91, "error": false}
+{"run_id": 385, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 185.33, "throughput": 35.8, "error": false}
+{"run_id": 386, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 192.28, "throughput": 29.6, "error": false}
+{"run_id": 387, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 250.09, "throughput": 19.56, "error": false}
+{"run_id": 388, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 172.33, "throughput": 30.07, "error": false}
+{"run_id": 389, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 207.26, "throughput": 28.27, "error": false}
+{"run_id": 390, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 226.42, "throughput": 30.83, "error": false}
+{"run_id": 391, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 200.37, "throughput": 27.47, "error": false}
+{"run_id": 392, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 194.8, "throughput": 30.01, "error": false}
+{"run_id": 393, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 106.74, "throughput": 23.62, "error": false}
+{"run_id": 394, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 178.51, "throughput": 28.85, "error": false}
+{"run_id": 395, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 157.13, "throughput": 26.13, "error": false}
+{"run_id": 396, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 252.94, "throughput": 28.15, "error": false}
+{"run_id": 397, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 151.49, "throughput": 21.41, "error": false}
+{"run_id": 398, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 156.69, "throughput": 29.62, "error": false}
+{"run_id": 399, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 164.8, "throughput": 30.67, "error": false}
+{"run_id": 400, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 205.35, "throughput": 24.06, "error": false}
+{"run_id": 401, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 163.49, "throughput": 32.85, "error": true}
+{"run_id": 402, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 143.68, "throughput": 28.58, "error": false}
+{"run_id": 403, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 212.07, "throughput": 29.37, "error": false}
+{"run_id": 404, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 225.64, "throughput": 28.85, "error": false}
+{"run_id": 405, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 257.48, "throughput": 38.82, "error": false}
+{"run_id": 406, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 159.15, "throughput": 36.68, "error": false}
+{"run_id": 407, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 145.53, "throughput": 27.81, "error": false}
+{"run_id": 408, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 187.48, "throughput": 27.07, "error": false}
+{"run_id": 409, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 166.51, "throughput": 26.04, "error": false}
+{"run_id": 410, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 201.23, "throughput": 33.99, "error": false}
+{"run_id": 411, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 184.61, "throughput": 26.79, "error": false}
+{"run_id": 412, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 143.62, "throughput": 21.85, "error": false}
+{"run_id": 413, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 149.9, "throughput": 35.96, "error": false}
+{"run_id": 414, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 235.37, "throughput": 31.85, "error": false}
+{"run_id": 415, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 160.03, "throughput": 32.36, "error": false}
+{"run_id": 416, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 171.17, "throughput": 32.52, "error": false}
+{"run_id": 417, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 172.11, "throughput": 24.95, "error": false}
+{"run_id": 418, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 193.97, "throughput": 31.47, "error": false}
+{"run_id": 419, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 191.91, "throughput": 32.57, "error": false}
+{"run_id": 420, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 244.35, "throughput": 35.75, "error": false}
+{"run_id": 421, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 248.88, "throughput": 27.61, "error": false}
+{"run_id": 422, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 193.34, "throughput": 28.15, "error": false}
+{"run_id": 423, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 185.1, "throughput": 22.98, "error": false}
+{"run_id": 424, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 243.15, "throughput": 26.41, "error": false}
+{"run_id": 425, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 166.06, "throughput": 27.17, "error": false}
+{"run_id": 426, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 189.68, "throughput": 37.83, "error": false}
+{"run_id": 427, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 225.36, "throughput": 30.44, "error": false}
+{"run_id": 428, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 175.63, "throughput": 29.78, "error": false}
+{"run_id": 429, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 162.26, "throughput": 32.98, "error": false}
+{"run_id": 430, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 211.41, "throughput": 36.92, "error": false}
+{"run_id": 431, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 178.11, "throughput": 31.68, "error": false}
+{"run_id": 432, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 191.8, "throughput": 27.3, "error": false}
+{"run_id": 433, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 203.5, "throughput": 29.02, "error": false}
+{"run_id": 434, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 116.37, "throughput": 20.94, "error": false}
+{"run_id": 435, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 193.08, "throughput": 31.13, "error": false}
+{"run_id": 436, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 190.2, "throughput": 39.02, "error": false}
+{"run_id": 437, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 196.83, "throughput": 28.02, "error": false}
+{"run_id": 438, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 117.8, "throughput": 31.16, "error": false}
+{"run_id": 439, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 136.83, "throughput": 27.02, "error": false}
+{"run_id": 440, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 157.81, "throughput": 30.24, "error": false}
+{"run_id": 441, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 103.46, "throughput": 32.76, "error": false}
+{"run_id": 442, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 182.37, "throughput": 18.84, "error": false}
+{"run_id": 443, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 233.39, "throughput": 17.5, "error": false}
+{"run_id": 444, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 150.43, "throughput": 33.62, "error": false}
+{"run_id": 445, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 204.89, "throughput": 32.54, "error": false}
+{"run_id": 446, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 184.02, "throughput": 31.69, "error": false}
+{"run_id": 447, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 231.93, "throughput": 26.58, "error": false}
+{"run_id": 448, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 190.24, "throughput": 22.97, "error": false}
+{"run_id": 449, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 224.26, "throughput": 31.32, "error": false}
+{"run_id": 450, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 186.74, "throughput": 33.34, "error": false}
+{"run_id": 451, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 154.05, "throughput": 33.94, "error": false}
+{"run_id": 452, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 205.16, "throughput": 38.37, "error": false}
+{"run_id": 453, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 213.62, "throughput": 42.2, "error": false}
+{"run_id": 454, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 163.57, "throughput": 31.93, "error": false}
+{"run_id": 455, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 172.89, "throughput": 25.35, "error": false}
+{"run_id": 456, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 202.24, "throughput": 26.7, "error": false}
+{"run_id": 457, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 187.25, "throughput": 28.86, "error": false}
+{"run_id": 458, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 146.59, "throughput": 31.59, "error": false}
+{"run_id": 459, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 207.03, "throughput": 28.31, "error": false}
+{"run_id": 460, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 176.89, "throughput": 28.86, "error": false}
+{"run_id": 461, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 222.5, "throughput": 22.2, "error": false}
+{"run_id": 462, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 177.95, "throughput": 31.7, "error": false}
+{"run_id": 463, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 236.68, "throughput": 35.61, "error": false}
+{"run_id": 464, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 138.92, "throughput": 33.73, "error": false}
+{"run_id": 465, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 135.81, "throughput": 29.89, "error": false}
+{"run_id": 466, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 210.12, "throughput": 30.8, "error": false}
+{"run_id": 467, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 241.66, "throughput": 35.52, "error": false}
+{"run_id": 468, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 180.09, "throughput": 29.26, "error": false}
+{"run_id": 469, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 194.24, "throughput": 35.62, "error": false}
+{"run_id": 470, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 202.57, "throughput": 25.88, "error": false}
+{"run_id": 471, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 241.79, "throughput": 27.56, "error": false}
+{"run_id": 472, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 126.67, "throughput": 38.38, "error": false}
+{"run_id": 473, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 184.73, "throughput": 32.59, "error": false}
+{"run_id": 474, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 231.66, "throughput": 28.54, "error": false}
+{"run_id": 475, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 174.1, "throughput": 27.39, "error": false}
+{"run_id": 476, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 199.8, "throughput": 32.93, "error": false}
+{"run_id": 477, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 208.64, "throughput": 28.12, "error": false}
+{"run_id": 478, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 137.09, "throughput": 35.67, "error": false}
+{"run_id": 479, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 161.7, "throughput": 40.03, "error": false}
+{"run_id": 480, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 224.39, "throughput": 30.13, "error": false}
+{"run_id": 481, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 183.8, "throughput": 31.76, "error": false}
+{"run_id": 482, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 197.23, "throughput": 25.9, "error": false}
+{"run_id": 483, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 222.67, "throughput": 32.95, "error": false}
+{"run_id": 484, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 181.69, "throughput": 25.82, "error": false}
+{"run_id": 485, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 134.77, "throughput": 31.07, "error": false}
+{"run_id": 486, "phase": "eval", "method": "baseline", "platform": "YouTube Long", "latency_ms": 175.87, "throughput": 16.7, "error": false}
+{"run_id": 487, "phase": "warmup", "method": "proposed", "platform": "TikTok", "latency_ms": 371.76, "throughput": 22.58, "error": false}
+{"run_id": 488, "phase": "warmup", "method": "proposed", "platform": "TikTok", "latency_ms": 227.1, "throughput": 37.98, "error": false}
+{"run_id": 489, "phase": "warmup", "method": "proposed", "platform": "TikTok", "latency_ms": 323.91, "throughput": 44.47, "error": false}
+{"run_id": 490, "phase": "warmup", "method": "proposed", "platform": "TikTok", "latency_ms": 289.54, "throughput": 23.11, "error": false}
+{"run_id": 491, "phase": "warmup", "method": "proposed", "platform": "TikTok", "latency_ms": 336.57, "throughput": 26.68, "error": false}
+{"run_id": 492, "phase": "warmup", "method": "proposed", "platform": "TikTok", "latency_ms": 391.71, "throughput": 26.61, "error": false}
+{"run_id": 493, "phase": "warmup", "method": "proposed", "platform": "TikTok", "latency_ms": 312.43, "throughput": 40.52, "error": false}
+{"run_id": 494, "phase": "warmup", "method": "proposed", "platform": "TikTok", "latency_ms": 362.67, "throughput": 22.15, "error": false}
+{"run_id": 495, "phase": "warmup", "method": "proposed", "platform": "TikTok", "latency_ms": 333.68, "throughput": 34.69, "error": false}
+{"run_id": 496, "phase": "warmup", "method": "proposed", "platform": "TikTok", "latency_ms": 233.1, "throughput": 17.49, "error": false}
+{"run_id": 497, "phase": "warmup", "method": "proposed", "platform": "TikTok", "latency_ms": 205.38, "throughput": 28.25, "error": false}
+{"run_id": 498, "phase": "warmup", "method": "proposed", "platform": "TikTok", "latency_ms": 306.43, "throughput": 10.9, "error": false}
+{"run_id": 499, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 93.19, "throughput": 80.18, "error": false}
+{"run_id": 500, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 89.25, "throughput": 76.61, "error": false}
+{"run_id": 501, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 105.73, "throughput": 62.05, "error": false}
+{"run_id": 502, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 109.44, "throughput": 53.59, "error": false}
+{"run_id": 503, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 72.27, "throughput": 64.0, "error": false}
+{"run_id": 504, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 85.35, "throughput": 60.79, "error": false}
+{"run_id": 505, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 77.48, "throughput": 57.76, "error": false}
+{"run_id": 506, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 101.58, "throughput": 50.48, "error": false}
+{"run_id": 507, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 75.58, "throughput": 55.82, "error": false}
+{"run_id": 508, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 118.9, "throughput": 64.02, "error": false}
+{"run_id": 509, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 104.62, "throughput": 41.72, "error": false}
+{"run_id": 510, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 130.52, "throughput": 62.21, "error": false}
+{"run_id": 511, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 105.47, "throughput": 69.19, "error": false}
+{"run_id": 512, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 66.93, "throughput": 62.92, "error": false}
+{"run_id": 513, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 118.67, "throughput": 58.12, "error": false}
+{"run_id": 514, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 74.09, "throughput": 35.84, "error": false}
+{"run_id": 515, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 92.74, "throughput": 57.12, "error": false}
+{"run_id": 516, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 116.71, "throughput": 59.44, "error": false}
+{"run_id": 517, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 106.67, "throughput": 66.08, "error": false}
+{"run_id": 518, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 112.96, "throughput": 50.34, "error": false}
+{"run_id": 519, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 79.42, "throughput": 67.86, "error": false}
+{"run_id": 520, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 79.93, "throughput": 74.87, "error": false}
+{"run_id": 521, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 110.51, "throughput": 63.17, "error": false}
+{"run_id": 522, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 119.57, "throughput": 58.83, "error": false}
+{"run_id": 523, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 82.12, "throughput": 66.04, "error": false}
+{"run_id": 524, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 68.92, "throughput": 54.37, "error": false}
+{"run_id": 525, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 89.68, "throughput": 48.41, "error": false}
+{"run_id": 526, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 83.41, "throughput": 68.06, "error": false}
+{"run_id": 527, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 93.48, "throughput": 57.41, "error": false}
+{"run_id": 528, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 81.89, "throughput": 50.51, "error": false}
+{"run_id": 529, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 85.03, "throughput": 50.35, "error": false}
+{"run_id": 530, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 108.61, "throughput": 46.48, "error": false}
+{"run_id": 531, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 92.2, "throughput": 64.12, "error": false}
+{"run_id": 532, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 70.88, "throughput": 49.45, "error": true}
+{"run_id": 533, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 113.78, "throughput": 40.74, "error": false}
+{"run_id": 534, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 116.56, "throughput": 59.6, "error": false}
+{"run_id": 535, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 83.85, "throughput": 59.91, "error": false}
+{"run_id": 536, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 55.49, "throughput": 69.63, "error": false}
+{"run_id": 537, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 88.13, "throughput": 48.31, "error": false}
+{"run_id": 538, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 93.0, "throughput": 54.32, "error": false}
+{"run_id": 539, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 103.82, "throughput": 63.94, "error": false}
+{"run_id": 540, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 123.26, "throughput": 51.23, "error": false}
+{"run_id": 541, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 115.57, "throughput": 72.57, "error": false}
+{"run_id": 542, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 90.6, "throughput": 73.43, "error": false}
+{"run_id": 543, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 99.37, "throughput": 59.01, "error": false}
+{"run_id": 544, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 100.98, "throughput": 58.69, "error": false}
+{"run_id": 545, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 97.36, "throughput": 54.8, "error": false}
+{"run_id": 546, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 146.36, "throughput": 44.74, "error": false}
+{"run_id": 547, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 82.86, "throughput": 66.28, "error": false}
+{"run_id": 548, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 109.16, "throughput": 71.76, "error": false}
+{"run_id": 549, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 115.56, "throughput": 39.55, "error": false}
+{"run_id": 550, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 102.48, "throughput": 70.86, "error": false}
+{"run_id": 551, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 81.64, "throughput": 62.34, "error": false}
+{"run_id": 552, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 100.89, "throughput": 70.92, "error": false}
+{"run_id": 553, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 112.83, "throughput": 61.08, "error": false}
+{"run_id": 554, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 70.58, "throughput": 65.6, "error": false}
+{"run_id": 555, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 88.04, "throughput": 66.93, "error": false}
+{"run_id": 556, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 96.92, "throughput": 59.91, "error": false}
+{"run_id": 557, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 92.91, "throughput": 54.65, "error": false}
+{"run_id": 558, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 118.0, "throughput": 65.91, "error": false}
+{"run_id": 559, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 91.91, "throughput": 46.66, "error": false}
+{"run_id": 560, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 65.59, "throughput": 67.88, "error": false}
+{"run_id": 561, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 137.25, "throughput": 50.93, "error": false}
+{"run_id": 562, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 127.07, "throughput": 71.9, "error": false}
+{"run_id": 563, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 99.87, "throughput": 61.02, "error": false}
+{"run_id": 564, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 83.93, "throughput": 60.18, "error": false}
+{"run_id": 565, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 98.33, "throughput": 65.12, "error": false}
+{"run_id": 566, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 68.09, "throughput": 70.05, "error": false}
+{"run_id": 567, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 83.45, "throughput": 58.43, "error": false}
+{"run_id": 568, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 78.28, "throughput": 56.08, "error": false}
+{"run_id": 569, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 84.95, "throughput": 66.86, "error": false}
+{"run_id": 570, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 100.28, "throughput": 59.71, "error": false}
+{"run_id": 571, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 86.76, "throughput": 46.61, "error": false}
+{"run_id": 572, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 86.81, "throughput": 49.57, "error": false}
+{"run_id": 573, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 87.95, "throughput": 82.73, "error": false}
+{"run_id": 574, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 99.52, "throughput": 50.68, "error": false}
+{"run_id": 575, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 98.44, "throughput": 39.72, "error": false}
+{"run_id": 576, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 128.88, "throughput": 56.85, "error": false}
+{"run_id": 577, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 113.71, "throughput": 59.5, "error": false}
+{"run_id": 578, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 56.68, "throughput": 66.87, "error": false}
+{"run_id": 579, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 78.5, "throughput": 62.16, "error": false}
+{"run_id": 580, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 86.87, "throughput": 66.55, "error": false}
+{"run_id": 581, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 114.1, "throughput": 48.21, "error": false}
+{"run_id": 582, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 129.23, "throughput": 71.32, "error": false}
+{"run_id": 583, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 79.75, "throughput": 56.16, "error": false}
+{"run_id": 584, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 96.65, "throughput": 60.17, "error": false}
+{"run_id": 585, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 92.3, "throughput": 47.81, "error": false}
+{"run_id": 586, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 111.8, "throughput": 48.48, "error": false}
+{"run_id": 587, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 81.83, "throughput": 62.02, "error": false}
+{"run_id": 588, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 121.53, "throughput": 65.64, "error": false}
+{"run_id": 589, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 107.6, "throughput": 53.91, "error": false}
+{"run_id": 590, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 101.42, "throughput": 56.5, "error": false}
+{"run_id": 591, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 82.62, "throughput": 55.34, "error": false}
+{"run_id": 592, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 86.23, "throughput": 71.06, "error": false}
+{"run_id": 593, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 125.55, "throughput": 81.75, "error": false}
+{"run_id": 594, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 97.22, "throughput": 50.24, "error": false}
+{"run_id": 595, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 85.11, "throughput": 51.33, "error": false}
+{"run_id": 596, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 93.51, "throughput": 49.87, "error": false}
+{"run_id": 597, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 80.14, "throughput": 86.71, "error": false}
+{"run_id": 598, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 90.63, "throughput": 56.87, "error": false}
+{"run_id": 599, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 73.62, "throughput": 76.61, "error": false}
+{"run_id": 600, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 101.13, "throughput": 48.68, "error": false}
+{"run_id": 601, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 76.62, "throughput": 74.38, "error": false}
+{"run_id": 602, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 97.65, "throughput": 38.71, "error": false}
+{"run_id": 603, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 107.88, "throughput": 72.1, "error": false}
+{"run_id": 604, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 68.49, "throughput": 63.76, "error": false}
+{"run_id": 605, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 67.34, "throughput": 60.93, "error": false}
+{"run_id": 606, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 90.8, "throughput": 44.05, "error": false}
+{"run_id": 607, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 90.34, "throughput": 59.65, "error": false}
+{"run_id": 608, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 88.34, "throughput": 60.64, "error": false}
+{"run_id": 609, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 90.74, "throughput": 57.25, "error": false}
+{"run_id": 610, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 62.81, "throughput": 65.36, "error": false}
+{"run_id": 611, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 96.69, "throughput": 69.79, "error": false}
+{"run_id": 612, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 61.89, "throughput": 63.51, "error": false}
+{"run_id": 613, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 98.94, "throughput": 56.77, "error": false}
+{"run_id": 614, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 112.12, "throughput": 65.43, "error": false}
+{"run_id": 615, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 59.58, "throughput": 68.04, "error": false}
+{"run_id": 616, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 107.14, "throughput": 52.95, "error": false}
+{"run_id": 617, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 110.87, "throughput": 75.26, "error": false}
+{"run_id": 618, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 92.09, "throughput": 67.84, "error": false}
+{"run_id": 619, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 76.69, "throughput": 64.79, "error": false}
+{"run_id": 620, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 97.52, "throughput": 63.01, "error": false}
+{"run_id": 621, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 121.54, "throughput": 52.76, "error": false}
+{"run_id": 622, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 96.19, "throughput": 69.04, "error": false}
+{"run_id": 623, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 73.36, "throughput": 42.35, "error": false}
+{"run_id": 624, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 76.68, "throughput": 57.48, "error": false}
+{"run_id": 625, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 84.91, "throughput": 63.12, "error": false}
+{"run_id": 626, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 107.61, "throughput": 65.35, "error": false}
+{"run_id": 627, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 93.09, "throughput": 70.55, "error": false}
+{"run_id": 628, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 71.86, "throughput": 67.0, "error": false}
+{"run_id": 629, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 120.41, "throughput": 70.37, "error": false}
+{"run_id": 630, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 98.72, "throughput": 59.09, "error": false}
+{"run_id": 631, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 89.59, "throughput": 63.16, "error": false}
+{"run_id": 632, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 86.29, "throughput": 55.36, "error": false}
+{"run_id": 633, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 77.61, "throughput": 44.27, "error": false}
+{"run_id": 634, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 127.26, "throughput": 74.04, "error": false}
+{"run_id": 635, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 108.53, "throughput": 74.01, "error": false}
+{"run_id": 636, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 97.75, "throughput": 42.63, "error": false}
+{"run_id": 637, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 77.62, "throughput": 62.83, "error": false}
+{"run_id": 638, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 105.38, "throughput": 70.37, "error": false}
+{"run_id": 639, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 76.35, "throughput": 41.27, "error": false}
+{"run_id": 640, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 85.95, "throughput": 46.81, "error": false}
+{"run_id": 641, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 88.22, "throughput": 51.16, "error": false}
+{"run_id": 642, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 114.51, "throughput": 66.52, "error": false}
+{"run_id": 643, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 106.7, "throughput": 50.38, "error": false}
+{"run_id": 644, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 98.55, "throughput": 56.7, "error": false}
+{"run_id": 645, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 82.51, "throughput": 65.66, "error": false}
+{"run_id": 646, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 45.59, "throughput": 71.89, "error": false}
+{"run_id": 647, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 85.35, "throughput": 70.38, "error": false}
+{"run_id": 648, "phase": "eval", "method": "proposed", "platform": "TikTok", "latency_ms": 70.66, "throughput": 50.99, "error": false}
+{"run_id": 649, "phase": "warmup", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 223.13, "throughput": 32.2, "error": false}
+{"run_id": 650, "phase": "warmup", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 270.82, "throughput": 20.9, "error": false}
+{"run_id": 651, "phase": "warmup", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 405.45, "throughput": 29.58, "error": false}
+{"run_id": 652, "phase": "warmup", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 322.41, "throughput": 19.05, "error": false}
+{"run_id": 653, "phase": "warmup", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 260.5, "throughput": 35.34, "error": false}
+{"run_id": 654, "phase": "warmup", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 272.81, "throughput": 20.28, "error": false}
+{"run_id": 655, "phase": "warmup", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 265.44, "throughput": 25.38, "error": false}
+{"run_id": 656, "phase": "warmup", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 206.2, "throughput": 22.24, "error": false}
+{"run_id": 657, "phase": "warmup", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 299.61, "throughput": 18.75, "error": false}
+{"run_id": 658, "phase": "warmup", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 479.66, "throughput": 25.12, "error": false}
+{"run_id": 659, "phase": "warmup", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 232.62, "throughput": 20.43, "error": false}
+{"run_id": 660, "phase": "warmup", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 281.8, "throughput": 30.74, "error": false}
+{"run_id": 661, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 103.38, "throughput": 50.17, "error": false}
+{"run_id": 662, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 96.43, "throughput": 52.77, "error": false}
+{"run_id": 663, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 94.59, "throughput": 59.0, "error": false}
+{"run_id": 664, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 107.26, "throughput": 51.45, "error": false}
+{"run_id": 665, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 104.37, "throughput": 52.47, "error": false}
+{"run_id": 666, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 142.29, "throughput": 43.94, "error": false}
+{"run_id": 667, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 71.86, "throughput": 56.79, "error": false}
+{"run_id": 668, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 118.59, "throughput": 56.41, "error": false}
+{"run_id": 669, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 109.61, "throughput": 52.92, "error": false}
+{"run_id": 670, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 103.31, "throughput": 56.64, "error": false}
+{"run_id": 671, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 93.18, "throughput": 43.78, "error": false}
+{"run_id": 672, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 119.7, "throughput": 56.91, "error": false}
+{"run_id": 673, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 110.72, "throughput": 58.23, "error": false}
+{"run_id": 674, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 107.2, "throughput": 50.62, "error": false}
+{"run_id": 675, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 100.13, "throughput": 49.51, "error": false}
+{"run_id": 676, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 113.94, "throughput": 43.41, "error": false}
+{"run_id": 677, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 107.15, "throughput": 45.83, "error": false}
+{"run_id": 678, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 121.28, "throughput": 44.57, "error": false}
+{"run_id": 679, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 121.93, "throughput": 54.92, "error": false}
+{"run_id": 680, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 112.13, "throughput": 54.77, "error": false}
+{"run_id": 681, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 120.42, "throughput": 58.93, "error": false}
+{"run_id": 682, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 93.5, "throughput": 56.07, "error": false}
+{"run_id": 683, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 82.84, "throughput": 42.86, "error": false}
+{"run_id": 684, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 57.95, "throughput": 56.69, "error": false}
+{"run_id": 685, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 134.67, "throughput": 50.93, "error": false}
+{"run_id": 686, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 101.21, "throughput": 55.94, "error": false}
+{"run_id": 687, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 99.92, "throughput": 63.22, "error": false}
+{"run_id": 688, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 114.78, "throughput": 62.61, "error": false}
+{"run_id": 689, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 146.6, "throughput": 48.7, "error": false}
+{"run_id": 690, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 89.49, "throughput": 60.45, "error": false}
+{"run_id": 691, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 111.01, "throughput": 45.74, "error": false}
+{"run_id": 692, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 84.97, "throughput": 64.56, "error": false}
+{"run_id": 693, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 116.19, "throughput": 59.81, "error": false}
+{"run_id": 694, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 73.48, "throughput": 50.03, "error": false}
+{"run_id": 695, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 80.61, "throughput": 69.21, "error": false}
+{"run_id": 696, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 116.45, "throughput": 52.45, "error": false}
+{"run_id": 697, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 127.92, "throughput": 54.73, "error": false}
+{"run_id": 698, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 105.15, "throughput": 52.18, "error": false}
+{"run_id": 699, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 70.2, "throughput": 52.84, "error": false}
+{"run_id": 700, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 97.75, "throughput": 44.39, "error": false}
+{"run_id": 701, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 110.05, "throughput": 37.21, "error": false}
+{"run_id": 702, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 116.99, "throughput": 58.19, "error": false}
+{"run_id": 703, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 112.11, "throughput": 63.43, "error": false}
+{"run_id": 704, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 107.13, "throughput": 51.14, "error": false}
+{"run_id": 705, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 118.18, "throughput": 56.61, "error": false}
+{"run_id": 706, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 111.59, "throughput": 61.75, "error": false}
+{"run_id": 707, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 124.4, "throughput": 62.18, "error": false}
+{"run_id": 708, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 73.52, "throughput": 67.73, "error": false}
+{"run_id": 709, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 75.36, "throughput": 49.11, "error": false}
+{"run_id": 710, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 103.51, "throughput": 50.78, "error": false}
+{"run_id": 711, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 88.45, "throughput": 48.42, "error": false}
+{"run_id": 712, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 116.66, "throughput": 59.09, "error": false}
+{"run_id": 713, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 112.9, "throughput": 59.04, "error": false}
+{"run_id": 714, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 110.23, "throughput": 55.89, "error": false}
+{"run_id": 715, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 124.16, "throughput": 59.58, "error": false}
+{"run_id": 716, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 93.12, "throughput": 55.56, "error": false}
+{"run_id": 717, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 112.79, "throughput": 73.2, "error": false}
+{"run_id": 718, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 117.29, "throughput": 63.81, "error": false}
+{"run_id": 719, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 154.87, "throughput": 51.88, "error": false}
+{"run_id": 720, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 93.33, "throughput": 52.1, "error": false}
+{"run_id": 721, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 125.6, "throughput": 57.63, "error": false}
+{"run_id": 722, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 107.14, "throughput": 52.26, "error": false}
+{"run_id": 723, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 116.73, "throughput": 49.06, "error": false}
+{"run_id": 724, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 90.5, "throughput": 62.73, "error": false}
+{"run_id": 725, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 111.5, "throughput": 54.48, "error": false}
+{"run_id": 726, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 92.39, "throughput": 46.13, "error": false}
+{"run_id": 727, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 120.79, "throughput": 57.74, "error": false}
+{"run_id": 728, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 122.29, "throughput": 48.86, "error": false}
+{"run_id": 729, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 90.48, "throughput": 65.73, "error": false}
+{"run_id": 730, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 120.87, "throughput": 65.29, "error": false}
+{"run_id": 731, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 75.46, "throughput": 48.91, "error": false}
+{"run_id": 732, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 92.31, "throughput": 46.11, "error": false}
+{"run_id": 733, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 85.13, "throughput": 57.76, "error": false}
+{"run_id": 734, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 118.44, "throughput": 59.19, "error": false}
+{"run_id": 735, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 101.67, "throughput": 72.5, "error": false}
+{"run_id": 736, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 72.46, "throughput": 46.73, "error": false}
+{"run_id": 737, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 109.34, "throughput": 54.0, "error": false}
+{"run_id": 738, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 148.45, "throughput": 59.53, "error": false}
+{"run_id": 739, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 90.73, "throughput": 46.76, "error": false}
+{"run_id": 740, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 112.39, "throughput": 39.69, "error": false}
+{"run_id": 741, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 109.28, "throughput": 53.23, "error": false}
+{"run_id": 742, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 98.41, "throughput": 53.54, "error": false}
+{"run_id": 743, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 120.87, "throughput": 63.92, "error": false}
+{"run_id": 744, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 100.05, "throughput": 58.61, "error": false}
+{"run_id": 745, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 100.48, "throughput": 61.52, "error": false}
+{"run_id": 746, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 134.34, "throughput": 69.67, "error": false}
+{"run_id": 747, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 109.27, "throughput": 55.09, "error": false}
+{"run_id": 748, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 96.26, "throughput": 42.74, "error": false}
+{"run_id": 749, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 93.92, "throughput": 55.71, "error": false}
+{"run_id": 750, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 87.42, "throughput": 56.93, "error": false}
+{"run_id": 751, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 120.37, "throughput": 73.03, "error": false}
+{"run_id": 752, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 118.52, "throughput": 46.11, "error": false}
+{"run_id": 753, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 140.06, "throughput": 47.38, "error": false}
+{"run_id": 754, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 108.23, "throughput": 54.26, "error": false}
+{"run_id": 755, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 103.02, "throughput": 65.14, "error": false}
+{"run_id": 756, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 81.66, "throughput": 62.78, "error": false}
+{"run_id": 757, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 96.83, "throughput": 41.95, "error": false}
+{"run_id": 758, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 107.93, "throughput": 64.62, "error": false}
+{"run_id": 759, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 107.34, "throughput": 60.57, "error": false}
+{"run_id": 760, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 129.28, "throughput": 45.24, "error": false}
+{"run_id": 761, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 113.84, "throughput": 63.95, "error": false}
+{"run_id": 762, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 62.36, "throughput": 48.53, "error": false}
+{"run_id": 763, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 105.17, "throughput": 58.94, "error": false}
+{"run_id": 764, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 120.94, "throughput": 53.23, "error": false}
+{"run_id": 765, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 100.06, "throughput": 58.44, "error": false}
+{"run_id": 766, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 121.39, "throughput": 62.49, "error": false}
+{"run_id": 767, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 48.89, "throughput": 44.46, "error": false}
+{"run_id": 768, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 98.28, "throughput": 38.63, "error": false}
+{"run_id": 769, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 109.26, "throughput": 64.12, "error": false}
+{"run_id": 770, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 118.0, "throughput": 57.99, "error": false}
+{"run_id": 771, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 153.68, "throughput": 63.01, "error": false}
+{"run_id": 772, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 117.76, "throughput": 64.42, "error": false}
+{"run_id": 773, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 100.63, "throughput": 64.61, "error": false}
+{"run_id": 774, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 159.47, "throughput": 48.81, "error": false}
+{"run_id": 775, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 102.99, "throughput": 50.96, "error": false}
+{"run_id": 776, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 54.8, "throughput": 51.41, "error": false}
+{"run_id": 777, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 99.32, "throughput": 70.97, "error": false}
+{"run_id": 778, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 134.33, "throughput": 57.16, "error": false}
+{"run_id": 779, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 114.48, "throughput": 66.29, "error": false}
+{"run_id": 780, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 118.73, "throughput": 58.02, "error": false}
+{"run_id": 781, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 116.95, "throughput": 73.43, "error": false}
+{"run_id": 782, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 117.23, "throughput": 65.38, "error": false}
+{"run_id": 783, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 109.23, "throughput": 35.34, "error": false}
+{"run_id": 784, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 65.45, "throughput": 67.13, "error": false}
+{"run_id": 785, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 128.61, "throughput": 47.56, "error": false}
+{"run_id": 786, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 114.12, "throughput": 54.72, "error": false}
+{"run_id": 787, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 110.66, "throughput": 77.83, "error": false}
+{"run_id": 788, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 129.59, "throughput": 61.96, "error": false}
+{"run_id": 789, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 105.27, "throughput": 38.05, "error": false}
+{"run_id": 790, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 124.93, "throughput": 47.0, "error": false}
+{"run_id": 791, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 95.43, "throughput": 67.39, "error": false}
+{"run_id": 792, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 121.78, "throughput": 60.13, "error": false}
+{"run_id": 793, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 112.88, "throughput": 45.22, "error": false}
+{"run_id": 794, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 111.94, "throughput": 57.67, "error": false}
+{"run_id": 795, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 139.83, "throughput": 67.95, "error": false}
+{"run_id": 796, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 102.09, "throughput": 58.96, "error": false}
+{"run_id": 797, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 138.04, "throughput": 64.24, "error": false}
+{"run_id": 798, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 91.67, "throughput": 61.51, "error": false}
+{"run_id": 799, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 104.32, "throughput": 54.05, "error": false}
+{"run_id": 800, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 102.04, "throughput": 34.88, "error": false}
+{"run_id": 801, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 95.29, "throughput": 55.35, "error": false}
+{"run_id": 802, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 103.63, "throughput": 61.52, "error": false}
+{"run_id": 803, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 98.86, "throughput": 60.64, "error": false}
+{"run_id": 804, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 77.44, "throughput": 60.52, "error": false}
+{"run_id": 805, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 108.12, "throughput": 38.82, "error": false}
+{"run_id": 806, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 76.43, "throughput": 57.55, "error": false}
+{"run_id": 807, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 86.24, "throughput": 51.35, "error": false}
+{"run_id": 808, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 96.36, "throughput": 59.86, "error": false}
+{"run_id": 809, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 128.23, "throughput": 57.32, "error": false}
+{"run_id": 810, "phase": "eval", "method": "proposed", "platform": "Instagram Reels", "latency_ms": 92.01, "throughput": 41.41, "error": false}
+{"run_id": 811, "phase": "warmup", "method": "proposed", "platform": "YouTube Long", "latency_ms": 427.18, "throughput": 7.27, "error": false}
+{"run_id": 812, "phase": "warmup", "method": "proposed", "platform": "YouTube Long", "latency_ms": 380.29, "throughput": 28.12, "error": false}
+{"run_id": 813, "phase": "warmup", "method": "proposed", "platform": "YouTube Long", "latency_ms": 333.93, "throughput": 25.66, "error": false}
+{"run_id": 814, "phase": "warmup", "method": "proposed", "platform": "YouTube Long", "latency_ms": 393.68, "throughput": 16.46, "error": false}
+{"run_id": 815, "phase": "warmup", "method": "proposed", "platform": "YouTube Long", "latency_ms": 257.93, "throughput": 9.97, "error": false}
+{"run_id": 816, "phase": "warmup", "method": "proposed", "platform": "YouTube Long", "latency_ms": 590.58, "throughput": 17.5, "error": false}
+{"run_id": 817, "phase": "warmup", "method": "proposed", "platform": "YouTube Long", "latency_ms": 554.88, "throughput": 30.92, "error": false}
+{"run_id": 818, "phase": "warmup", "method": "proposed", "platform": "YouTube Long", "latency_ms": 456.16, "throughput": 29.42, "error": false}
+{"run_id": 819, "phase": "warmup", "method": "proposed", "platform": "YouTube Long", "latency_ms": 545.77, "throughput": 14.42, "error": false}
+{"run_id": 820, "phase": "warmup", "method": "proposed", "platform": "YouTube Long", "latency_ms": 436.78, "throughput": 14.74, "error": false}
+{"run_id": 821, "phase": "warmup", "method": "proposed", "platform": "YouTube Long", "latency_ms": 313.8, "throughput": 14.61, "error": false}
+{"run_id": 822, "phase": "warmup", "method": "proposed", "platform": "YouTube Long", "latency_ms": 543.02, "throughput": 19.11, "error": false}
+{"run_id": 823, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 157.7, "throughput": 37.59, "error": false}
+{"run_id": 824, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 164.09, "throughput": 61.18, "error": false}
+{"run_id": 825, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 131.21, "throughput": 49.08, "error": false}
+{"run_id": 826, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 129.23, "throughput": 41.34, "error": false}
+{"run_id": 827, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 121.7, "throughput": 41.29, "error": false}
+{"run_id": 828, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 168.64, "throughput": 40.01, "error": false}
+{"run_id": 829, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 93.67, "throughput": 35.69, "error": false}
+{"run_id": 830, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 139.02, "throughput": 36.15, "error": false}
+{"run_id": 831, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 123.08, "throughput": 41.09, "error": false}
+{"run_id": 832, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 160.04, "throughput": 44.11, "error": false}
+{"run_id": 833, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 131.85, "throughput": 46.16, "error": false}
+{"run_id": 834, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 119.64, "throughput": 44.24, "error": false}
+{"run_id": 835, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 148.45, "throughput": 49.03, "error": false}
+{"run_id": 836, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 189.76, "throughput": 38.18, "error": false}
+{"run_id": 837, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 142.08, "throughput": 43.34, "error": false}
+{"run_id": 838, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 145.76, "throughput": 49.6, "error": false}
+{"run_id": 839, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 142.94, "throughput": 49.38, "error": false}
+{"run_id": 840, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 162.72, "throughput": 38.97, "error": false}
+{"run_id": 841, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 199.9, "throughput": 43.19, "error": false}
+{"run_id": 842, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 128.89, "throughput": 52.13, "error": false}
+{"run_id": 843, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 149.41, "throughput": 50.66, "error": false}
+{"run_id": 844, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 174.34, "throughput": 50.07, "error": false}
+{"run_id": 845, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 152.24, "throughput": 49.97, "error": false}
+{"run_id": 846, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 127.52, "throughput": 55.26, "error": false}
+{"run_id": 847, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 163.72, "throughput": 44.82, "error": false}
+{"run_id": 848, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 143.28, "throughput": 53.48, "error": false}
+{"run_id": 849, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 98.95, "throughput": 42.58, "error": false}
+{"run_id": 850, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 137.5, "throughput": 32.12, "error": false}
+{"run_id": 851, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 160.56, "throughput": 43.54, "error": false}
+{"run_id": 852, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 170.86, "throughput": 40.42, "error": false}
+{"run_id": 853, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 156.96, "throughput": 45.61, "error": false}
+{"run_id": 854, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 138.5, "throughput": 50.9, "error": false}
+{"run_id": 855, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 101.25, "throughput": 48.06, "error": false}
+{"run_id": 856, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 155.36, "throughput": 46.69, "error": false}
+{"run_id": 857, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 163.27, "throughput": 43.7, "error": false}
+{"run_id": 858, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 134.97, "throughput": 57.34, "error": false}
+{"run_id": 859, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 155.86, "throughput": 32.92, "error": false}
+{"run_id": 860, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 131.84, "throughput": 30.24, "error": false}
+{"run_id": 861, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 133.22, "throughput": 30.15, "error": false}
+{"run_id": 862, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 179.94, "throughput": 53.83, "error": false}
+{"run_id": 863, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 144.19, "throughput": 52.77, "error": false}
+{"run_id": 864, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 172.18, "throughput": 37.79, "error": false}
+{"run_id": 865, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 154.31, "throughput": 32.06, "error": false}
+{"run_id": 866, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 201.51, "throughput": 48.22, "error": false}
+{"run_id": 867, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 147.71, "throughput": 43.52, "error": false}
+{"run_id": 868, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 122.0, "throughput": 37.64, "error": false}
+{"run_id": 869, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 178.32, "throughput": 37.46, "error": false}
+{"run_id": 870, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 140.76, "throughput": 46.24, "error": false}
+{"run_id": 871, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 168.59, "throughput": 44.55, "error": false}
+{"run_id": 872, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 150.96, "throughput": 48.12, "error": false}
+{"run_id": 873, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 198.56, "throughput": 47.1, "error": false}
+{"run_id": 874, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 101.61, "throughput": 38.57, "error": false}
+{"run_id": 875, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 150.38, "throughput": 31.37, "error": false}
+{"run_id": 876, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 129.0, "throughput": 53.31, "error": false}
+{"run_id": 877, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 148.27, "throughput": 51.78, "error": false}
+{"run_id": 878, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 117.44, "throughput": 42.7, "error": false}
+{"run_id": 879, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 108.74, "throughput": 32.99, "error": false}
+{"run_id": 880, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 127.48, "throughput": 41.41, "error": false}
+{"run_id": 881, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 125.52, "throughput": 43.95, "error": false}
+{"run_id": 882, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 123.15, "throughput": 54.94, "error": false}
+{"run_id": 883, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 125.42, "throughput": 54.15, "error": false}
+{"run_id": 884, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 128.79, "throughput": 42.98, "error": false}
+{"run_id": 885, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 180.74, "throughput": 38.61, "error": false}
+{"run_id": 886, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 145.32, "throughput": 37.49, "error": false}
+{"run_id": 887, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 143.14, "throughput": 51.53, "error": false}
+{"run_id": 888, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 160.7, "throughput": 51.97, "error": false}
+{"run_id": 889, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 137.49, "throughput": 48.38, "error": false}
+{"run_id": 890, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 158.15, "throughput": 43.42, "error": false}
+{"run_id": 891, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 118.37, "throughput": 53.55, "error": false}
+{"run_id": 892, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 185.22, "throughput": 40.61, "error": false}
+{"run_id": 893, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 204.59, "throughput": 37.02, "error": false}
+{"run_id": 894, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 147.18, "throughput": 52.49, "error": false}
+{"run_id": 895, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 142.47, "throughput": 40.13, "error": false}
+{"run_id": 896, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 118.53, "throughput": 42.81, "error": false}
+{"run_id": 897, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 117.05, "throughput": 39.38, "error": false}
+{"run_id": 898, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 106.22, "throughput": 41.21, "error": false}
+{"run_id": 899, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 132.72, "throughput": 42.21, "error": true}
+{"run_id": 900, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 126.12, "throughput": 48.56, "error": false}
+{"run_id": 901, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 131.05, "throughput": 47.2, "error": false}
+{"run_id": 902, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 152.41, "throughput": 54.33, "error": false}
+{"run_id": 903, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 97.35, "throughput": 47.0, "error": false}
+{"run_id": 904, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 137.3, "throughput": 50.57, "error": false}
+{"run_id": 905, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 104.76, "throughput": 44.93, "error": false}
+{"run_id": 906, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 136.83, "throughput": 52.49, "error": false}
+{"run_id": 907, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 110.07, "throughput": 37.19, "error": false}
+{"run_id": 908, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 133.59, "throughput": 53.23, "error": false}
+{"run_id": 909, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 155.75, "throughput": 44.96, "error": false}
+{"run_id": 910, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 120.81, "throughput": 49.66, "error": false}
+{"run_id": 911, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 164.5, "throughput": 51.83, "error": false}
+{"run_id": 912, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 138.46, "throughput": 46.64, "error": false}
+{"run_id": 913, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 150.78, "throughput": 43.25, "error": false}
+{"run_id": 914, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 161.19, "throughput": 43.51, "error": false}
+{"run_id": 915, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 139.36, "throughput": 44.45, "error": false}
+{"run_id": 916, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 147.17, "throughput": 50.86, "error": false}
+{"run_id": 917, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 147.52, "throughput": 52.51, "error": false}
+{"run_id": 918, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 147.62, "throughput": 40.14, "error": false}
+{"run_id": 919, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 119.71, "throughput": 42.88, "error": false}
+{"run_id": 920, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 110.45, "throughput": 36.28, "error": false}
+{"run_id": 921, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 187.46, "throughput": 40.95, "error": false}
+{"run_id": 922, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 132.63, "throughput": 37.77, "error": false}
+{"run_id": 923, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 206.28, "throughput": 53.19, "error": false}
+{"run_id": 924, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 159.67, "throughput": 38.51, "error": false}
+{"run_id": 925, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 169.24, "throughput": 51.66, "error": false}
+{"run_id": 926, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 130.91, "throughput": 42.9, "error": false}
+{"run_id": 927, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 115.92, "throughput": 46.58, "error": false}
+{"run_id": 928, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 101.33, "throughput": 44.75, "error": false}
+{"run_id": 929, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 112.17, "throughput": 48.22, "error": false}
+{"run_id": 930, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 162.31, "throughput": 49.76, "error": false}
+{"run_id": 931, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 101.38, "throughput": 40.48, "error": false}
+{"run_id": 932, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 129.05, "throughput": 39.42, "error": false}
+{"run_id": 933, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 188.11, "throughput": 49.45, "error": false}
+{"run_id": 934, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 167.91, "throughput": 47.81, "error": false}
+{"run_id": 935, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 138.78, "throughput": 41.18, "error": false}
+{"run_id": 936, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 157.31, "throughput": 40.94, "error": false}
+{"run_id": 937, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 116.98, "throughput": 53.93, "error": false}
+{"run_id": 938, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 155.9, "throughput": 51.04, "error": false}
+{"run_id": 939, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 145.43, "throughput": 44.07, "error": false}
+{"run_id": 940, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 128.16, "throughput": 41.03, "error": false}
+{"run_id": 941, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 140.21, "throughput": 38.81, "error": false}
+{"run_id": 942, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 171.32, "throughput": 48.46, "error": false}
+{"run_id": 943, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 136.37, "throughput": 47.78, "error": false}
+{"run_id": 944, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 136.32, "throughput": 50.4, "error": false}
+{"run_id": 945, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 117.73, "throughput": 38.35, "error": false}
+{"run_id": 946, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 187.43, "throughput": 31.36, "error": false}
+{"run_id": 947, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 107.58, "throughput": 39.81, "error": false}
+{"run_id": 948, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 132.18, "throughput": 40.48, "error": true}
+{"run_id": 949, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 129.22, "throughput": 34.35, "error": false}
+{"run_id": 950, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 162.38, "throughput": 49.56, "error": false}
+{"run_id": 951, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 150.69, "throughput": 48.46, "error": false}
+{"run_id": 952, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 143.24, "throughput": 43.23, "error": false}
+{"run_id": 953, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 192.54, "throughput": 33.02, "error": false}
+{"run_id": 954, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 119.44, "throughput": 50.47, "error": false}
+{"run_id": 955, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 117.37, "throughput": 47.26, "error": false}
+{"run_id": 956, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 157.27, "throughput": 45.52, "error": false}
+{"run_id": 957, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 144.94, "throughput": 42.89, "error": false}
+{"run_id": 958, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 157.94, "throughput": 48.83, "error": false}
+{"run_id": 959, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 116.09, "throughput": 40.25, "error": false}
+{"run_id": 960, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 163.24, "throughput": 50.44, "error": false}
+{"run_id": 961, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 179.83, "throughput": 53.03, "error": false}
+{"run_id": 962, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 121.84, "throughput": 54.4, "error": true}
+{"run_id": 963, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 146.25, "throughput": 41.76, "error": false}
+{"run_id": 964, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 105.2, "throughput": 48.18, "error": false}
+{"run_id": 965, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 221.75, "throughput": 36.83, "error": false}
+{"run_id": 966, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 156.13, "throughput": 54.09, "error": false}
+{"run_id": 967, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 157.73, "throughput": 31.83, "error": false}
+{"run_id": 968, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 115.37, "throughput": 31.49, "error": false}
+{"run_id": 969, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 85.27, "throughput": 35.27, "error": false}
+{"run_id": 970, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 121.6, "throughput": 46.62, "error": false}
+{"run_id": 971, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 166.01, "throughput": 48.97, "error": false}
+{"run_id": 972, "phase": "eval", "method": "proposed", "platform": "YouTube Long", "latency_ms": 142.95, "throughput": 46.0, "error": false}
