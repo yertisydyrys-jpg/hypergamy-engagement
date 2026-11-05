@@ -81,5 +81,56 @@ def main(seed: int = 42) -> None:
     print(f"[generate_data] wrote {len(records)} records -> {OUT}")
 
 
+
+# ---------------------------------------------------------------------------
+# Load sweep (feeds fig1 "latency vs load"); SYNTHETIC like the file above.
+# Queueing-style model: latency = floor / (1 - rho), rho = offered load / capacity,
+# with right-skewed (log-normal) noise. A separate RNG stream (seed + 1) is used so
+# data/raw/test_run.jsonl stays bit-for-bit identical.
+# ---------------------------------------------------------------------------
+LOAD_OUT = ROOT / "data" / "raw" / "load_sweep.jsonl"
+LOADS_RPS = [10, 20, 40, 80, 120, 160]            # offered load, requests per second
+FLOOR_MS = {"TikTok": 77.0, "Instagram Reels": 88.0, "YouTube Long": 115.0}  # unloaded latency of baseline
+FLOOR_FACTOR = {"baseline": 1.0, "proposed": 0.75}
+CAPACITY_RPS = {                                    # saturation throughput of each collector
+    "baseline": {"TikTok": 230.0, "Instagram Reels": 210.0, "YouTube Long": 190.0},
+    "proposed": {"TikTok": 340.0, "Instagram Reels": 310.0, "YouTube Long": 280.0},
+}
+N_WARMUP_LOAD = 4
+N_EVAL_LOAD = 80
+SIGMA = 0.12                                        # log-normal noise
+
+
+def generate_load_sweep(seed: int = 42) -> None:
+    """Simulate latency / throughput / errors at several offered-load levels."""
+    rng = np.random.default_rng(seed + 1)
+    records, run_id = [], 0
+    for method in ("baseline", "proposed"):
+        for platform in PLATFORMS:
+            cap = CAPACITY_RPS[method][platform]
+            floor = FLOOR_MS[platform] * FLOOR_FACTOR[method]
+            for load in LOADS_RPS:
+                rho = load / cap
+                expected = floor / (1.0 - rho)
+                for phase, n, inflate in (("warmup", N_WARMUP_LOAD, 3.0), ("eval", N_EVAL_LOAD, 1.0)):
+                    for _ in range(n):
+                        run_id += 1
+                        noise = rng.lognormal(-0.5 * SIGMA**2, SIGMA)
+                        latency = expected * inflate * noise
+                        achieved = min(load, cap) * rng.normal(1.0, 0.03)
+                        p_err = (0.04 if phase == "warmup" else 0.004 + 0.03 * rho**3)
+                        records.append(dict(run_id=run_id, phase=phase, method=method,
+                                            platform=platform, load_rps=load,
+                                            latency_ms=round(float(latency), 2),
+                                            throughput_rps=round(float(achieved), 2),
+                                            error=bool(rng.random() < p_err)))
+    LOAD_OUT.parent.mkdir(parents=True, exist_ok=True)
+    with open(LOAD_OUT, "w", encoding="utf-8") as f:
+        for rec in records:
+            f.write(json.dumps(rec) + "\n")
+    print(f"[generate_data] wrote {len(records)} records -> {LOAD_OUT}")
+
+
 if __name__ == "__main__":
     main()
+    generate_load_sweep()

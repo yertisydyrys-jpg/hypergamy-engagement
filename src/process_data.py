@@ -9,6 +9,8 @@ Pipeline:
     5. compare_methods - Baseline vs Proposed: relative median-latency reduction
                          with a bootstrap 95% CI per platform
     6. warmup_report   - quantifies the cold-start effect that is filtered out
+    7. summarize_load  - latency vs offered load (data/raw/load_sweep.jsonl) per
+                         (method, platform, load) with bootstrap 95% CI -> fig1
 
 Reproducibility: every bootstrap uses numpy's Generator seeded with SEED (42).
 Note: failed runs (error == True) stay in the latency statistics (conservative
@@ -26,6 +28,8 @@ RAW_PATH = ROOT / "data" / "raw" / "test_run.jsonl"
 OUT_PATH = ROOT / "data" / "processed" / "metrics_summary.csv"
 COMPARE_PATH = ROOT / "data" / "processed" / "method_comparison.csv"
 WARMUP_PATH = ROOT / "data" / "processed" / "warmup_report.csv"
+LOAD_RAW_PATH = ROOT / "data" / "raw" / "load_sweep.jsonl"
+LOAD_SUMMARY_PATH = ROOT / "data" / "processed" / "load_sweep_summary.csv"
 SEED = 42
 N_BOOT = 10_000
 ERROR_GUARDRAIL = 0.05          # error rate must stay below 5% in every group
@@ -195,6 +199,28 @@ def warmup_report(raw: pd.DataFrame) -> pd.DataFrame:
     return pd.DataFrame(rows)
 
 
+def summarize_load(df: pd.DataFrame) -> pd.DataFrame:
+    """Aggregate the load sweep per (method, platform, load_rps).
+
+    Mean latency with percentile-bootstrap 95% CI, median, p95, achieved throughput
+    and error rate. Warm-up runs must already be filtered out.
+    """
+    rows = []
+    for (method, platform, load), g in df.groupby(["method", "platform", "load_rps"]):
+        lat = g["latency_ms"].to_numpy(dtype=float)
+        lo, hi = bootstrap_ci(lat)
+        rows.append({
+            "method": method, "platform": platform, "load_rps": int(load),
+            "n_runs": len(g),
+            "latency_mean_ms": lat.mean(), "ci95_low_ms": lo, "ci95_high_ms": hi,
+            "latency_median_ms": np.median(lat),
+            "latency_p95_ms": np.percentile(lat, 95),
+            "throughput_mean_rps": g["throughput_rps"].mean(),
+            "error_rate": g["error"].mean(),
+        })
+    return pd.DataFrame(rows)
+
+
 def main() -> pd.DataFrame:
     df = load_jsonl()
     completeness = validate_raw(df)
@@ -204,6 +230,10 @@ def main() -> pd.DataFrame:
     summary.to_csv(OUT_PATH, index=False)
     compare_methods(eval_df).to_csv(COMPARE_PATH, index=False)
     warmup_report(df).to_csv(WARMUP_PATH, index=False)
+    if LOAD_RAW_PATH.exists():
+        load_eval = filter_warmup(load_jsonl(LOAD_RAW_PATH))
+        summarize_load(load_eval).to_csv(LOAD_SUMMARY_PATH, index=False)
+        print(f"[process_data] load sweep -> {LOAD_SUMMARY_PATH}")
     print(f"[process_data] completeness={completeness:.1%} | {len(df)} raw runs -> "
           f"{len(eval_df)} eval runs -> summary of {len(summary)} groups saved to {OUT_PATH}")
     return summary
