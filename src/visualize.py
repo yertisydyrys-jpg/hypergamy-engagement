@@ -79,6 +79,7 @@ def fig1_latency_vs_load(load_summary_df: pd.DataFrame) -> None:
         ax.xaxis.set_major_formatter(ScalarFormatter())
         ax.xaxis.set_minor_formatter(NullFormatter())
         ax.set_yticks([60, 100, 200, 400, 800])
+        ax.set_ylim(50, 950)  # explicit limits: identical layout across matplotlib versions
         ax.yaxis.set_major_formatter(ScalarFormatter())
         ax.yaxis.set_minor_formatter(NullFormatter())
         ax.set_title(platform)
@@ -135,7 +136,8 @@ def fig2_distribution_boxplot(summary: pd.DataFrame) -> None:
 
 def _save(fig: plt.Figure, name: str) -> None:
     FIG_DIR.mkdir(parents=True, exist_ok=True)
-    fig.savefig(FIG_DIR / f"{name}.pdf", bbox_inches="tight")             # vector, for LaTeX
+    # CreationDate=None keeps the PDF byte-for-byte reproducible between runs
+    fig.savefig(FIG_DIR / f"{name}.pdf", bbox_inches="tight", metadata={"CreationDate": None})  # vector
     fig.savefig(FIG_DIR / f"{name}.png", dpi=300, bbox_inches="tight")    # raster, for README
     plt.close(fig)
     print(f"[visualize] saved {name}.pdf / {name}.png")

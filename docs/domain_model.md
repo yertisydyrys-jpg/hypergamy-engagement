@@ -2,7 +2,7 @@
 
 **Project:** Algorithmic Amplification of Gender Discourses: Cross-Platform
 Comparative Analysis of Hypergamy Content
-**Author:** Yertis Ydyrys · **Repository:** `hypergamy-engagement`
+**Authors:** Yertis Ydyrys and Tazhimuratov Shokhriyor · **Repository:** `hypergamy-engagement`
 
 This document formalizes the machine-learning and statistical components of the
 study: (1) the narrative-classification model (RQ1), (2) the engagement metric

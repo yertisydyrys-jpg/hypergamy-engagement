@@ -2,7 +2,7 @@
 
 ## 1. Project Information
 * **Project Title:** Algorithmic Amplification of Gender and Relationship Discourses: A Cross-Platform Comparative Analysis of Hypergamy Content on TikTok, Instagram Reels, and YouTube
-* **Author:** Yertis Ydyrys
+* **Authors:** Yertis Ydyrys and Tazhimuratov Shokhriyor
 * **Repository Link:** [https://github.com/yertisydyrys-jpg/hypergamy-engagement.git](https://github.com/yertisydyrys-jpg/hypergamy-engagement.git)
 * **Academic Context:** Data Science / Computational Social Science (Year 2026)
 

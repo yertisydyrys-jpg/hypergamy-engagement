@@ -11,5 +11,5 @@ RUN pip install --no-cache-dir --upgrade pip && \
 
 COPY . .
 
-CMD ["python", "src/main.py"]
+CMD ["sh", "-c", "python src/main.py && python src/process_data.py && python src/visualize.py"]
 
