@@ -9,6 +9,16 @@ gender/relationship (hypergamy) discourse. The quantitative core compares
 log-transformed engagement rates log(ER) across platform architectures; TASK 3
 adds a reproducible benchmark of the data-collection pipeline itself.
 
+> **Data provenance (please read).** The benchmark log `data/raw/test_run.jsonl`
+> is **synthetic**: it was simulated with a fixed random seed by
+> [`src/generate_data.py`](src/generate_data.py) so that the whole TASK 3 pipeline
+> (warm-up filtering, statistics, figures) is reproducible from a clean clone.
+> It is **not** a measurement of real TikTok / Instagram / YouTube infrastructure,
+> so the numbers below demonstrate the analysis method, not empirical findings.
+> To use real collection logs, replace `data/raw/test_run.jsonl` (same schema, see
+> `data/raw/DATA_PROVENANCE.md`) and re-run the pipeline. All statistics and figures
+> are then recomputed automatically.
+
 ---
 
 ## Results & Discussion (TASK 3)
