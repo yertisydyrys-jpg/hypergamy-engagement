@@ -1,26 +1,36 @@
-# Virtual Environments
+# Virtual environments
 .venv/
 venv/
 ENV/
 env/
 
-# Python Cache & Bytecode
+# Python cache & bytecode
 __pycache__/
 *.py[cod]
 *$py.class
 
-# Jupyter Notebook Checkpoints
+# Jupyter
 .ipynb_checkpoints/
+**/.ipynb_checkpoints/
 
-# Data & Logs (Exclude raw datasets and dynamic logs)
-data/raw/
-data/processed/
+# IDE / editor settings
+.idea/
+.vscode/
+
+# Raw data: only the small, documented logs are tracked.
+# Any other (possibly large) raw dump under data/raw/ is ignored by default.
+data/raw/*
+!data/raw/test_run.jsonl
+!data/raw/load_sweep.jsonl
+!data/raw/DATA_PROVENANCE.md
+
+# Dynamic logs (results/log.txt is a small tracked pipeline log)
 *.log
 
-# Environment & API Keys
+# Environment & API keys / secrets
 .env
 .env.local
 
-# OS Generated Files
+# OS-generated files
 .DS_Store
 Thumbs.db
